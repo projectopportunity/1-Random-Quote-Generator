@@ -68,5 +68,4 @@ setInterval(function () { printQuote(); }, 4000);
 /***
  * Call the printQuote function when the load-quote button is pressed
 ***/
-
 document.getElementById('load-quote').addEventListener("click", printQuote, false);
