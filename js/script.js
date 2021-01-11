@@ -61,9 +61,9 @@ function printQuote () {
 }
 
 /***
- * Pull a new quote every 4 seconds by triggering the printQuote function
+ * Pull a new quote every 10 seconds by triggering the printQuote function
 ***/
-setInterval(function () { printQuote(); }, 4000);
+setInterval(function () { printQuote(); }, 10000);
 
 /***
  * Call the printQuote function when the load-quote button is pressed
