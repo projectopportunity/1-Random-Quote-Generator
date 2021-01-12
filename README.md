@@ -1,1 +1,1 @@
-# 1 Random Quote Generator
+# Craig Maples 1 Random Quote Generator
